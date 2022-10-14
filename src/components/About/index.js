@@ -27,8 +27,8 @@ const About = () => {
                         idx={15}
                     />
                 </h1>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <p>I am a Junior React Developer and I am currently opened to new opportunities. I was working as a Wordpress developer for 4 years. I coordinated development department with 4 developers.</p>
+                <p>A few years ago, I discovered an irresistible desire to program. Using open sources and courses, I studied HTML, CSS and JavaScript, based on the knowledge gained, I created several applications. Now I am focusing on ReactJS. I aim to work in a team of professionals where I can unleash my potential and participate in creating wonderful web applications.</p>
             </div>
 
             <div className='stage-cube-cont'>
